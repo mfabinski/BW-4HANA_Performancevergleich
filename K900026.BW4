@@ -1,0 +1,7 @@
+BONNMANN-B   T DUM        1   1   4   0   0 259   0   0   0 264  750   .  0   0   0   0   0 100
+#A
+#/1/                          A   G   D   C   R   7   T   -   Z RELE EX.  _   _   _   _   _ CLI
+BW4 f 0000 20180326203509 srv16-bw4hana       bw4adm
+BW4 e 0000 20180326203513 srv16-bw4hana       bw4adm
+DUM < 0000 20180326203529 srv16-bw4hana       bw4adm
+BW4 E 0000 20180326203529 srv16-bw4hana       bw4adm
